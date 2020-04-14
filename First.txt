@@ -2,4 +2,4 @@
 git
 fundamental
 
-gitadd and commit
+gitadd and commit and git remove
