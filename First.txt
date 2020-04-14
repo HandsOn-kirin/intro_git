@@ -4,3 +4,5 @@ fundamental
 
 gitadd and commit and git remove
 git status
+
+あああ
